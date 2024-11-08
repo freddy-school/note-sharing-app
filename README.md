@@ -49,3 +49,14 @@ or, if already cloned:
     git pull origin main
 
     Run or test the app to ensure everything works as expected.
+
+## Upcoming Features
+
+- [ ] **File Upload**: Enable users to upload files.
+- [ ] **File Viewing and Downloading**: Allow users to view and download files.
+- [ ] **File Size Check**: Implement a check to ensure uploaded files are within an acceptable size limit.
+- [ ] **Usernames**: Add support for usernames to identify users.
+- [ ] **Mandatory Upload**: Make uploading files a requirement in certain situations or for certain users.
+- [ ] **File Organization GUI**: Provide a user interface to sort files by subject, year level, notes, and revision materials.
+- [ ] **Public Metrics and Social Pressure**: Display public metrics to encourage users to upload more files.
+- [ ] **Cost Tracker and Donation Page**: Show the running costs of the app and provide a donation page to support its upkeep.
