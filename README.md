@@ -1,6 +1,9 @@
 # Note-Sharing App
 
-## Getting Started
+## mission statement
+**Build a community for students to access relevant resources.**
+
+## Getting Started developing 
 
 To begin, you may want to review this [Git Guide](http://rogerdudler.github.io/git-guide/) for a quick introduction to Git basics.
 
