@@ -8,8 +8,9 @@
 To begin, you may want to review this [Git Guide](http://rogerdudler.github.io/git-guide/) for a quick introduction to Git basics.
 
 ### Workflow
-
-To do a lot to this stuff lazygit is very helpfull
+####Tips
+- To do a lot to this stuff lazygit is very helpfull
+- install `sudo apt install gh` to auth the repo to comit from the coud michn if needed lazygit auth will not work as we have to have 2-factor-auth
 
 1. **Set up a server**: Create a droplet on DigitalOcean using an Ubuntu OS image.
 2. **Clone the repository on your local machine**:
