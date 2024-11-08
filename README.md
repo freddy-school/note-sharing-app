@@ -9,6 +9,8 @@ To begin, you may want to review this [Git Guide](http://rogerdudler.github.io/g
 
 ### Workflow
 
+To do a lot to this stuff lazygit is very helpfull
+
 1. **Set up a server**: Create a droplet on DigitalOcean using an Ubuntu OS image.
 2. **Clone the repository on your local machine**:
 
